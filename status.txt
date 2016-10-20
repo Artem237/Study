@@ -1,0 +1,17 @@
+$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   .idea/.name
+        new file:   .idea/compiler.xml
+        new file:   .idea/copyright/profiles_settings.xml
+        new file:   .idea/libraries/KotlinJavaRuntime.xml
+        new file:   .idea/misc.xml
+        new file:   .idea/modules.xml
+        new file:   .idea/workspace.xml
+        new file:   Study.iml
+        new file:   desktop.ini
