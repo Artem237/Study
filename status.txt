@@ -15,3 +15,8 @@ Changes to be committed:
         new file:   .idea/workspace.xml
         new file:   Study.iml
         new file:   desktop.ini
+
+
+$ git status
+On branch master
+nothing to commit, working tree clean
