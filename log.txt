@@ -1,0 +1,12 @@
+$ git log
+commit 7416ecff76b70a8488b1424cdcaafd1a43adc5b1
+Author: Artem <vash-artem@mail.ru>
+Date:   Thu Oct 20 22:52:56 2016 +0300
+
+    add status.txt
+
+commit 6dec0f4d4e24ac3555faa3f38fcc80964c540685
+Author: Artem <vash-artem@mail.ru>
+Date:   Thu Oct 20 22:49:32 2016 +0300
+
+    add 1.gitignore
